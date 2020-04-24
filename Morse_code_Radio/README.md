@@ -1,5 +1,3 @@
-Lam Ha - 19035157
-=====================
 Introduction
 =================
 an upgrade small microbit programme that can be used to communicate between two microbits via morsecode using Radio Frequency
@@ -95,4 +93,4 @@ How to build
 
 State of Diagram
 ==================
-![alt text](https://gitlab.uwe.ac.uk/lk2-ha/morsecode-radio-challenge3/-/blob/master/State-diagram.pdf)
+![alt text](https://github.com/Liam1809/Microbit-Projects/blob/master/Morse_code_Radio/State-diagram.pdf)
