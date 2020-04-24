@@ -1,5 +1,3 @@
-Lam Ha - 19035157
-=====================
 Introduction
 =================
 a small microbit programme that can be used to communicate between two microbits via morsecode 
@@ -91,4 +89,4 @@ How to build
 
 State of Diagram
 ==================
-![alt text](https://gitlab.uwe.ac.uk/lk2-ha/morse-code/blob/master/State_diagram.pdf)
+![alt text](https://github.com/Liam1809/Microbit-Projects/blob/master/Morse_code/State_diagram.pdf)
